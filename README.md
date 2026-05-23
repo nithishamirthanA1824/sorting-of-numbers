@@ -54,7 +54,7 @@ END
 
 ```
 ## OUTPUT(Ascending order)
-<img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/52280d6f-cccb-40df-a9b4-4f99477a75b9" />
+<img width="489" height="300" alt="image" src="https://github.com/user-attachments/assets/52280d6f-cccb-40df-a9b4-4f99477a75b9" />
 
 
 
@@ -103,7 +103,7 @@ END
 
 ```
 ## OUTPUT(Descending order)
-<img width="971" height="556" alt="image" src="https://github.com/user-attachments/assets/0150fc28-bd7f-4793-bb68-162b16f3d989" />
+<img width="489" height="300" alt="image" src="https://github.com/user-attachments/assets/0150fc28-bd7f-4793-bb68-162b16f3d989" />
 
 
 
